@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitIntergrated", "GitIntergrated\GitIntergrated.csproj", "{13D80B36-032F-4E64-A7C5-31B7FE4B4ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D80B36-032F-4E64-A7C5-31B7FE4B4ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D80B36-032F-4E64-A7C5-31B7FE4B4ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D80B36-032F-4E64-A7C5-31B7FE4B4ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D80B36-032F-4E64-A7C5-31B7FE4B4ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {107D6743-4605-4207-A9FD-9E19448A33A0}
+	EndGlobalSection
+EndGlobal
